@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srvchawla
-- 👀 I'm 
+- 👀 I'm presently aligned as customer success architect with Github.
 - 🌱 Current interests: Edge Computing, Re-inforcement Learning, embedding AI/ML to our ecosystem of apps.
 - 💞️ I’m looking to collaborate on anything related to Solution design, product management, data & analytics..
 
