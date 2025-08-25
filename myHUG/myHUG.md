@@ -4,22 +4,21 @@
 
 ### What are some honest, unfiltered things about you?
 
-* I have a curious mind yet an introverted personality, I take my time to open up with humans and at times that comes off as being arrogant (I've been told :)). But once I open up i can be talkative and somewhat humourous too. 
-* I’m very ambitious and driven, but I don’t like to step on others to get ahead. I've always relied on my merit than anything else to step up the ladder.
-* I am very confident, calm and comfortable in my own skin wherein I love experimentation, finding things, learning my way and sharing with others. 
-* I love learning on the job and I'd like to call myself language and tool agnostic. Technology feels very natural to me being exposed to C++/C, Java and such while growing up, though I've dablled with management too for a while.  
+* I have a curious mind paired with an introverted personality, so I take my time to open up. Sometimes that can come across as arrogance (as I’ve been told 😅), but once I feel comfortable, I can be quite talkative and have a sense of humor.
+* I’m ambitious and driven, yet I prefer to succeed based on merit rather than stepping on others. Confidence, calmness, and comfort in my own skin allow me to experiment, explore, learn on the fly, and share knowledge with others.
+* I thrive on learning through experience and consider myself language- and tool-agnostic. Technology has always felt natural to me — having grown up with C++/C, Java, and similar languages — though I’ve also spent time exploring management and leadership along the way.
 
 ### What drives you nuts?
 
-* Vague feedback or beating around the bush — just be direct.
-* Politics instead of productive conversations.
-* Meetings without a clear purpose or outcome. I sometimes get impatient with inefficiency or overcomplication of processes.
+* Vague feedback or indirect communication — I prefer clarity and directness.
+* Office politics or hidden agendas instead of open, productive conversations.
+* Meetings without a clear purpose or outcome. I can get impatient with inefficiency or unnecessarily complicated processes.
 
 ### What are your quirks?
 
-* I give my 200% to something that feels interesting to pursue, even to a point where I get obsessed with perfecting the small details if I’m not careful.
-* I am a night owl. Am most productive when the world is sleeping.
-* I overthink a problem statement from different perspectives to make it make sense to me first. I often qoute "Two sides of the same coin".
+* I give 200% to projects that genuinely interest me, sometimes getting a bit obsessed with perfecting the small details.
+* I’m a night owl and often do my best work when the world is quiet and asleep.
+* I tend to overthink problems from multiple angles to fully understand them — I often quote, “Two sides of the same coin.”
 
 ### What are some things that people might misunderstand about you that you should clarify?
 
@@ -31,23 +30,26 @@
 
 * As most of you may know by my Zoom background, I am very passionate about music, so off work you'll often find me jamming or playing with my mates in local venues across the island, city. 
 * Fitness/Hiking/Camping
+* Coaching
 * Technology (obviously) of all sorts but more specifically, I love to learn about new technologies and how they work.
 
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
 
-* People who have empathy towards others and respect personal committments outside of work. 
-* People that like to make work fun instead or just a chore.
-* People who take the initiative to learn and figure it out.
+* Empathy and respect for others, including honoring personal commitments outside of work.
+* A sense of fun and positivity, making work enjoyable rather than just a chore.
+* Self-starters who take initiative to learn, explore, and figure things out independently.
 
 ### What do you wish colleagues didn’t do?
 
-* Not being honest, I wish people speak out when they dont agree with me and dont bite behind the back. It is ok to clear misunderstandings, and diagree to agree.  
+* Not being honest, I wish people speak out when they dont agree with me and don't talk behind someones back. It is ok to clear misunderstandings, disagree in order to reach better understanding. 
+* Avoid taking ownership or responsibility when issues arise.
+* 
 
 ### How can people earn an extra gold star with you?
 
-* Just be yourself. Even if it's not pleasant to be around.
+* "Be yourself, is all that you can do" - Audioslave
 
 ## About my interactions
 
